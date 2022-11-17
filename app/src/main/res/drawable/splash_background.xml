@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:drawable="@color/colorAccent" />
+
+    <item android:drawable="@drawable/expensify2"
+        android:gravity="center"
+        android:height="180dp"
+        android:width="180dp"/>
+
+
+    </layer-list>
