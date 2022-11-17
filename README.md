@@ -17,7 +17,7 @@ Start with this app to inculcate a systematic approach in your life.
 
 
 
-<img height=500 width=275 src="https://github.com/amitskr/Expensify/blob/main/Expensify%20SS/Default%20Home.jpg"
+<img height=500 src="https://github.com/amitskr/Expensify/blob/main/Expensify%20SS/Default%20Home.jpg"
 /><img height=500 width=275 src="https://github.com/shashankchandak/Expense-Manager/blob/master/Sreenshots/2.png" hspace=24
 /><img height=500 width=275 src="https://github.com/shashankchandak/Expense-Manager/blob/master/Sreenshots/3.png"
 />
